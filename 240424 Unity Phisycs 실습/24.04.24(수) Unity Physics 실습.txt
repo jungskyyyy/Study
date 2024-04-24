@@ -1,0 +1,9 @@
+1. 주제: Unity Physics 엔진 활용을 통한 시퀀스 만들기
+2. 내용
+	a. 이미지
+	b. 동영상
+	c. 상세 동작
+		1) 총 3개의 Sensor가 Object를 감지한다.
+		2) 1초 후 각 Sensor와 연결된 Clylinder가 동작한다.
+		3) 각 Clylinder는 지정된 위치(Destination)에 도착하면 정지한다.
+		4) Object가 Bucket에 도착하면 Console 창에 "FINISH" 문자열을 출력한다.
