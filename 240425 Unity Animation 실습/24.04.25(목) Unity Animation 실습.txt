@@ -1,0 +1,8 @@
+1. 주제: Unity Animation 활용을 통한 NPC FSM 시퀀스 만들기
+2. 내용
+	a. 동영상
+	b. 상세 동작
+		1) 명령이 입력되면 NPC가 Destination 방향으로 이동하며 Walking 애니메이션을 실행한다.
+		2) NPC가 Destination에 도착하면 정지 후 Button Pushing 애니메이션을 실행한다.
+		3) Sensor가 NPC의 Mech Collider와 닿으면 Cylinder는 지정된 명령을 실행한다.
+		4) Cylinder의 명령이 실행되는 동안 NPC는 Idle 애니메이션을 실행한다.
